@@ -3,7 +3,7 @@
 程序安装包下载：http://pan.baidu.com/s/1skkoIIh
 项目源码地址：https://github.com/Han-Jiang/wx-luckymoney
 
-这是一个微信自动化 UI 机器人，主要实现自动抢红包，自动确认好友请求喝自动登录
+这是一个微信自动化 UI 机器人，主要实现自动抢红包，自动确认好友请求和自动登录
 主要使用`AccessibilityService `辅助服务找到包含关键字的View，然后模拟点击
 
 本程序所用技术并非高难度，作为一个小工具，力求做得简单精致
